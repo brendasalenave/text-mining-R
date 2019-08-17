@@ -11,5 +11,8 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
   - Análise Polaridade
     + Exemplos de análise de polaridade e emoções em textos de livros escritos em língua portuguesa
 
+  - Classificação
+    + Exemplos de aplicação de técnicas Classificação textos
+
   - Machado TidyText
     + Exemplos de aplicação de técnicas de mineração de textos (pré-processamento e análise) extraídos do Projeto Gutenberg
