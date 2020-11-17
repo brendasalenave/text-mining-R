@@ -6,12 +6,12 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
 
 ## Notebooks
  -   #### Classificação
-    - Tarefa:
-      + Identificação da classe ou categoria (tópico, assunto)
-      + Associar documentos de texto a classes temáticas pré-definidas
-      + Documentos são classificados a partir de características do texto, como termos ou palavras presentes nos documentos
-    - [Notebook](https://github.com/brendasalenave/text-mining-R/blob/master/Classificacao.ipynb):
-      + Exemplos de aplicação de técnicas Classificação textos
+    * Tarefa:
+      * Identificação da classe ou categoria (tópico, assunto)
+      * Associar documentos de texto a classes temáticas pré-definidas
+      * Documentos são classificados a partir de características do texto, como termos ou palavras presentes nos documentos
+    * [Notebook](https://github.com/brendasalenave/text-mining-R/blob/master/Classificacao.ipynb):
+      * Exemplos de aplicação de técnicas Classificação textos
       
       
  -   ####  Agrupamento
