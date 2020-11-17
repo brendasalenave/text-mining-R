@@ -5,7 +5,7 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
 ---
 
 ## Notebooks
- #### Classificação
+#### Classificação
     * Tarefa:
       * Identificação da classe ou categoria (tópico, assunto)
       * Associar documentos de texto a classes temáticas pré-definidas
@@ -14,7 +14,7 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
       * Exemplos de aplicação de técnicas Classificação textos
       
       
- ####  Agrupamento
+####  Agrupamento
     * Tarefa:
       * procura identificar subtipos ou grupos que não foram definidos a priori
       * organiza dados não etiquetados em grupos similares, chamados de clusters
