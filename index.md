@@ -11,7 +11,7 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
   - Análise Polaridade
     + Exemplos de análise de polaridade e emoções em textos de livros escritos em língua portuguesa
 
-  #### Classificação
+ - #### Classificação
     - Tarefa:
       - Identificação da classe ou categoria (tópico, assunto)
       - Associar documentos de texto a classes temáticas pré-definidas
