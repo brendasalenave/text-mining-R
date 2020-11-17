@@ -5,6 +5,9 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
 ---
 
 ## Notebooks
+Este repositório é composto por 2 notebooks exemplificando algumas das principais tarefas de mineração de textos ([classificação](https://github.com/brendasalenave/text-mining-R/blob/master/Classificacao.ipynb) e [agrupamento](https://github.com/brendasalenave/text-mining-R/blob/master/Agrupamento.ipynb)); e ainda dois notebooks voltados a exemplificação de tarefas associadas à mineração de textos, porém de forma mais geral.
+
+### Tarefas de Mineração de Textos
 #### Classificação
 - Tarefa:
    * Identificação da classe ou categoria (tópico, assunto)
@@ -20,15 +23,14 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
   * organiza dados não etiquetados em grupos similares, chamados de clusters
 - [Notebook](https://github.com/brendasalenave/text-mining-R/blob/master/Agrupamento.ipynb)
   * Exemplo de agrupamento (*clustering*) hierárquico de informações utilizando como exemplo sinopses de filmes de animação extraídas da Wikipedia
-  
+ 
+### Exemplos Genéricos
 
- ### Análise Polaridade
-    + Exemplos de análise de polaridade e emoções em textos de livros escritos em língua portuguesa
+ #### Análise Polaridade
+ - Tarefas abordadas: Exemplos de análise de polaridade e emoções em textos de livros escritos em língua portuguesa
 
-
-
- ### Machado TidyText
-- Tarefas Abordadas:
+ #### Machado TidyText
+- Tarefas abordadas:
   *
 - Notebook
   * Exemplos de aplicação de técnicas de mineração de textos (pré-processamento e análise) extraídos do Projeto Gutenberg
