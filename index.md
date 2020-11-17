@@ -24,12 +24,12 @@ Este repositório é composto por 2 notebooks exemplificando algumas das princip
 - [Notebook](https://github.com/brendasalenave/text-mining-R/blob/master/Agrupamento.ipynb)
   * Exemplo de agrupamento (*clustering*) hierárquico de informações utilizando como exemplo sinopses de filmes de animação extraídas da Wikipedia
  
-### Exemplos Genéricos
+### Exemplos Complementares
 
- #### Análise Polaridade
+#### Análise Polaridade
  - Tarefas abordadas: Exemplos de análise de polaridade e emoções em textos de livros escritos em língua portuguesa
 
- #### Machado TidyText
+#### Machado TidyText
 - Tarefas abordadas:
   *
 - Notebook
