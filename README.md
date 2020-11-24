@@ -7,6 +7,7 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
 ## Notebooks
   - Agrupamento
     + Exemplo de agrupamento (*clustering*) hierárquico de informações utilizando como exemplo sinopses de filmes de animação extraídas da Wikipedia
+    + Os dados utilizados nesse exemplo estão disponíveis aqui [aqui](https://github.com/brendasalenave/text-mining-R/tree/master/datasets/filmes)
 
   - Análise Polaridade
     + Exemplos de análise de polaridade e emoções em textos de livros escritos em língua portuguesa
