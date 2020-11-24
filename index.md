@@ -23,7 +23,7 @@ Este repositório é composto por 2 notebooks exemplificando algumas das princip
   * organiza dados não etiquetados em grupos similares, chamados de clusters
 - [Notebook](https://github.com/brendasalenave/text-mining-R/blob/master/Agrupamento.ipynb)
   * Exemplo de agrupamento (*clustering*) hierárquico de informações utilizando como exemplo sinopses de filmes de animação extraídas da Wikipedia
-    *  Os dados utilizados nesse exemplo estão disponíveis aqui [aqui](https://github.com/brendasalenave/text-mining-R/tree/master/datasets/filmes)
+    *  Os dados utilizados nesse exemplo estão disponíveis [aqui](https://github.com/brendasalenave/text-mining-R/tree/master/datasets/filmes)
  
 ### Exemplos Complementares
 
