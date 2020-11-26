@@ -30,6 +30,12 @@ Este repositório é composto por 2 notebooks exemplificando algumas das princip
 - [Notebook](https://github.com/brendasalenave/text-mining-R/blob/master/Agrupamento.ipynb)
   * Exemplo de agrupamento (*clustering*) hierárquico de informações utilizando como exemplo sinopses de filmes de animação extraídas da Wikipedia
     *  Os dados utilizados nesse exemplo estão disponíveis [aqui](https://github.com/brendasalenave/text-mining-R/tree/master/datasets/filmes)
+
+####  Associação
+- Tarefa:
+  * busca descobrir padrões que descrevem características dos documentos ou da base de documentos
+  * visa gerar regras associativas para identificar a probabilidade condicional entre temas, conceitos ou atributos
+-  Notebook (em desenvolvimento)
  
 ### Exemplos Complementares
 
