@@ -6,8 +6,8 @@ Códigos de exemplo de aplicação de técnicas de **mineração de textos** em 
 
 ## Aulas
 Aulas apresentadas ao curso de *Business Analytics Aplicado a Text Mining*
-- Aula #01 -https://github.com/brendasalenave/text-mining-R/blob/master/aulas/text-mining-01.ipynb
-- Aula #02 - https://github.com/brendasalenave/text-mining-R/blob/master/aulas/text-mining-02.ipynb
+- Aula #01 - [Visão Geral](https://github.com/brendasalenave/text-mining-R/blob/master/aulas/text-mining-01.ipynb)
+- Aula #02 - [Abordagens de Mineração de Texto](https://github.com/brendasalenave/text-mining-R/blob/master/aulas/text-mining-02.ipynb)
 - Aula #03 - [Classificação e agrupamento de textos](https://github.com/brendasalenave/text-mining-R/blob/master/aulas/TM_Aula03.ipynb)
 
 ## Notebooks
