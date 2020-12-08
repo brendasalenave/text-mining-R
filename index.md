@@ -9,6 +9,7 @@ Aulas apresentadas ao curso de *Business Analytics Aplicado a Text Mining*
 - Aula #01 - [Visão Geral](https://github.com/brendasalenave/text-mining-R/blob/master/aulas/text-mining-01.ipynb)
 - Aula #02 - [Abordagens de Mineração de Texto](https://github.com/brendasalenave/text-mining-R/blob/master/aulas/text-mining-02.ipynb)
 - Aula #03 - [Classificação e agrupamento de textos](https://github.com/brendasalenave/text-mining-R/blob/master/aulas/TM_Aula03.ipynb)
+- Aula #05 - [Regras de Associação e Sumarização](https://github.com/brendasalenave/text-mining-R/blob/master/aulas/text-mining-5.ipynb)
 
 ## Notebooks
 Complementar ao conteúdo das aulas, este repositório também apresenta 2 notebooks exemplificando algumas das principais tarefas de mineração de textos ([classificação](https://github.com/brendasalenave/text-mining-R/blob/master/Classificacao.ipynb) e [agrupamento](https://github.com/brendasalenave/text-mining-R/blob/master/Agrupamento.ipynb)); e ainda dois notebooks voltados a exemplificação de tarefas associadas à mineração de textos, porém de forma mais geral.
